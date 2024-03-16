@@ -22,25 +22,27 @@
     "url": "https://plume.seediqbale.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/plume.seediqbale.xyz.ico",
     "slug": "plume",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 432,
     "timeDay": 486,
     "timeWeek": 432,
     "timeMonth": 432,
     "timeYear": 432,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 1
+    }
   },
   {
     "name": "ActivityRelay",
     "url": "https://relay-tw.seediqbale.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/relay-tw.seediqbale.xyz.ico",
     "slug": "activity-relay",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 216,
     "timeMonth": 216,
     "timeYear": 216,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   },
   {
     "name": "Aode Relay",
