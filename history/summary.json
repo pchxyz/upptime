@@ -22,19 +22,19 @@
     "url": "https://plume.seediqbale.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/plume.seediqbale.xyz.ico",
     "slug": "plume",
-    "status": "up",
-    "uptime": "98.24%",
-    "uptimeDay": "95.66%",
-    "uptimeWeek": "98.24%",
-    "uptimeMonth": "98.24%",
-    "uptimeYear": "98.24%",
+    "status": "down",
+    "uptime": "98.23%",
+    "uptimeDay": "95.62%",
+    "uptimeWeek": "98.23%",
+    "uptimeMonth": "98.23%",
+    "uptimeYear": "98.23%",
     "time": 1383,
     "timeDay": 2035,
     "timeWeek": 1383,
     "timeMonth": 1383,
     "timeYear": 1383,
     "dailyMinutesDown": {
-      "2024-03-16": 63
+      "2024-03-16": 64
     }
   },
   {
@@ -42,9 +42,9 @@
     "url": "https://relay-tw.seediqbale.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/relay-tw.seediqbale.xyz.ico",
     "slug": "activity-relay",
-    "status": "up",
+    "status": "down",
     "uptime": "98.28%",
-    "uptimeDay": "95.73%",
+    "uptimeDay": "95.72%",
     "uptimeWeek": "98.28%",
     "uptimeMonth": "98.28%",
     "uptimeYear": "98.28%",
